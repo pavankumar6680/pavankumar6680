@@ -1,47 +1,45 @@
-# 👋 Hi there, I'm Pavan Kumar
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Pavan Kumar — Application Developer specializing in Java, Spring Boot and microservices">
+</picture>
 
-### Application Developer | Java • Spring Boot • Microservices
+## 👋 About
 
-Enterprise Java developer with **3+ years of experience** across the full SDLC — designing, building, testing, and deploying backend systems and full-stack applications. Currently an **Application Developer II at Capgemini**, previously at **CBRE** and **Deloitte**.
+Application Developer with **3+ years of experience** across the full SDLC, building enterprise web applications with **Java 8/11/17, Spring Boot**, and **React/TypeScript**. I work on event-driven microservices with **Apache Kafka**, **Redis** caching, and deployments on **AWS** and **Azure** using Docker, Kubernetes, and CI/CD pipelines.
 
-📍 Kansas City, MO
+- 🏢 Currently: **Application Developer II @ Capgemini**
+- 📍 Based in **Kansas City, MO**
+- 🎯 Focus: Microservices · Event-Driven Architecture · Cloud-Native Systems
+- 🌱 Currently learning: Advanced Spring Cloud patterns, Kubernetes internals, system design
 
----
+## 💼 Experience
 
-## 🛠️ Tech Stack
+**Application Developer II — Capgemini** *(Jul 2025 – Present)*
+Microservices backend for an Employee Self-Service Portal: 40+ secured REST APIs (Spring Security, JWT, OAuth 2.0), Kafka event-driven communication, Redis caching (45% faster API responses), Resilience4j circuit breakers, Saga pattern. Azure + Docker/Kubernetes + Terraform.
 
-**Languages:** Java 8/11/17, JavaScript, TypeScript, SQL, HTML
+**Application Developer — CBRE** *(Aug 2023 – Jul 2024)*
+Enterprise Java applications and 30+ REST APIs backed by MongoDB; Spring Batch jobs processing millions of records daily for reconciliation and reporting; 500+ automated tests. AWS infrastructure with Terraform, Docker, Kubernetes.
 
-**Backend:** Spring Boot, Spring MVC, Spring Security, Spring Cloud, Spring Batch, Hibernate, JPA, RESTful APIs, Microservices, Multithreading, Resilience4j, Saga Pattern, JWT, OAuth 2.0
-
-**Frontend:** React, TypeScript, JavaScript, HTML, Tailwind CSS
-
-**Messaging:** Apache Kafka, Event-Driven Architecture
-
-**Databases:** MySQL, Oracle DB, SQL Server, MongoDB, Redis, SQL Query Tuning, Stored Procedures
-
-**Cloud & DevOps:** AWS (EC2, S3, CloudWatch), Microsoft Azure, Docker, Kubernetes, Terraform, CI/CD, Maven
-
-**Testing:** JUnit, Mockito (82%+ coverage)
-
-**Monitoring:** Dynatrace, Grafana, Splunk, ELK Stack
-
-**Tools:** Git, Jira, Agile / Scrum, Linux
-
----
+**Software Developer — Deloitte** *(May 2022 – Jul 2023)*
+REST APIs for a payment platform serving 90M+ users; Oracle DB tuning with optimized SQL, views, and stored procedures; Redis caching cut high-read endpoint latency by 40%. Deployed on AWS EC2/S3.
 
 ## 🚀 Featured Projects
 
-### 🏢 Employee Self-Service Portal — *Capgemini*
-Microservices backend for an HR self-service portal (leave, attendance, payroll). Built with **Java 17 + Spring Boot**, 40+ secured REST APIs, **Kafka** event-driven communication, **Redis** caching (cut API response time 45%), Resilience4j circuit breakers, and Saga pattern for data consistency. Deployed on Azure with Docker/Kubernetes and Terraform.
+- **Employee Self-Service Portal** — Microservices platform for HR, leave, attendance, and payroll modules. Java 17, Spring Boot, Spring Cloud, Kafka, Redis, MySQL.
+- **Payment Platform APIs** — Backend services for a payment platform serving 90M+ users. Java 8, Spring Boot, Oracle DB, Redis.
+- **High-Volume Batch Pipelines** — Spring Batch reconciliation and reporting jobs processing millions of records daily. Spring Batch, MongoDB, AWS.
 
-### 💳 Payment Platform APIs — *Deloitte*
-Developed and integrated RESTful APIs for a payment platform serving **90M+ users**. Database layers on **Oracle DB** with tuned SQL, views, and stored procedures; Redis caching improved high-read endpoint response time by 40%. Deployed on AWS EC2/S3.
+## 🛠️ Engineering Stack
 
-### 📊 High-Volume Batch Pipelines — *CBRE*
-**Spring Batch** jobs for daily reconciliation, aggregation, and reporting — processing millions of records with chunk-based processing, retry logic, and job monitoring. Optimized MongoDB aggregation pipelines, cutting report generation time 35%. AWS + Kubernetes deployments with Terraform-provisioned infrastructure.
-
----
+- **Languages:** Java 8/11/17, JavaScript, TypeScript, SQL, HTML
+- **Backend:** Spring Boot, Spring MVC, Spring Security, Spring Cloud, Spring Batch, Hibernate, JPA, REST APIs, Resilience4j, Saga Pattern, JWT, OAuth 2.0
+- **Frontend:** React, TypeScript, Tailwind CSS
+- **Messaging:** Apache Kafka, Event-Driven Architecture
+- **Databases:** MySQL, Oracle DB, SQL Server, MongoDB, Redis
+- **Cloud & DevOps:** AWS (EC2, S3, CloudWatch), Microsoft Azure, Docker, Kubernetes, Terraform, CI/CD, Maven
+- **Testing:** JUnit, Mockito
+- **Monitoring:** Dynatrace, Grafana, Splunk, ELK Stack
 
 ## 📊 GitHub Stats
 
@@ -49,18 +47,22 @@ Developed and integrated RESTful APIs for a payment platform serving **90M+ user
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumar6680&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavankumar6680)
 
----
+<h2 align="center">📊 GitHub Contributions</h2>
 
-## 🌐 Connect With Me
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavankumar6680/github-snake/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pavankumar6680/github-snake/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/pavankumar6680/github-snake/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  </picture>
+</p>
+
+## 📫 Connect With Me
 
 - 💼 LinkedIn: [linkedin.com/in/pavan-kumar-baa364307](https://linkedin.com/in/pavan-kumar-baa364307)
+- 🌐 Portfolio: [pavankumar6680.github.io](https://pavankumar6680.github.io)
 - 📧 Email: pavankumaranjuri@gmail.com
-- 📍 Location: Kansas City, MO
 
 ---
 
-## 🎯 More About Me
-
-- 🌱 **Currently Learning:** Advanced Spring Cloud patterns, Kubernetes internals, system design for scale
-- 💬 **Ask Me About:** Java, Spring Boot, Microservices, Kafka, SQL tuning, CI/CD
-- ⚡ **Fun Fact:** I love chasing down performance bugs — nothing beats shaving 40% off a slow query
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
