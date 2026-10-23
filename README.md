@@ -13,6 +13,16 @@ Application Developer with **3+ years of experience** across the full SDLC, buil
 - 🎯 Focus: Microservices · Event-Driven Architecture · Cloud-Native Systems
 - 🌱 Currently learning: Advanced Spring Cloud patterns, Kubernetes internals, system design
 
+## 🌐 Portfolios
+
+Three versions of my portfolio site, each a different interactive 3D theme built with HTML, CSS and Three.js.
+
+| Theme | Live site | Code |
+|---|---|---|
+| 🚀 **Space** (latest) | [pavankumar6680.github.io/space-theme-portfolio](https://pavankumar6680.github.io/space-theme-portfolio/) | [space-theme-portfolio](https://github.com/pavankumar6680/space-theme-portfolio) |
+| 🚄 **Train** | [pavankumar6680.github.io/train-theme-portfolio](https://pavankumar6680.github.io/train-theme-portfolio/) | [train-theme-portfolio](https://github.com/pavankumar6680/train-theme-portfolio) |
+| ☁️ **Cloud** | [pavankumar6680.github.io](https://pavankumar6680.github.io/) | [pavankumar6680.github.io](https://github.com/pavankumar6680/pavankumar6680.github.io) |
+
 ## 💼 Experience
 
 **Application Developer II — Capgemini** *(Jul 2025 – Present)*
@@ -60,7 +70,7 @@ REST APIs for a payment platform serving 90M+ users; Oracle DB tuning with optim
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [linkedin.com/in/pavan-kumar-baa364307](https://linkedin.com/in/pavan-kumar-baa364307)
-- 🌐 Portfolio: [pavankumar6680.github.io](https://pavankumar6680.github.io)
+- 🌐 Portfolio: [pavankumar6680.github.io/space-theme-portfolio](https://pavankumar6680.github.io/space-theme-portfolio/) (see all themes under [Portfolios](#-portfolios))
 - 📧 Email: pavankumaranjuri@gmail.com
 
 ---
