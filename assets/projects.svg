@@ -22,13 +22,13 @@
 <g class="r" style="animation-delay:0.15s">
 <rect x="40" y="66" width="363" height="112" rx="9" fill="#0b2427" stroke="#5eead4" stroke-opacity=".35"/>
 <line x1="40" y1="88" x2="403" y2="88" stroke="#5eead4" stroke-opacity=".18"/>
-<text x="52" y="81" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" font-weight="400" fill="#5eead4" >&gt; project/premium-threads</text>
+<text x="52" y="81" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" font-weight="400" fill="#5eead4" >&gt; premium-threads</text>
 <circle cx="389" cy="77" r="3.5" fill="#34d399" class="pulse"/>
 <text x="52" y="110" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#e6fffa" >Premium Threads</text>
-<text x="52" y="128" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="400" fill="#99f6e4" >AI-assisted fashion marketplace: 16 modules,</text>
-<text x="52" y="142" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="400" fill="#99f6e4" >95 REST endpoints, Llama 3.2 via Spring AI.</text>
-<rect x="52" y="152" width="126" height="17" rx="8.5" fill="#f89820" fill-opacity=".14" stroke="#f89820" stroke-opacity=".55"/>
-<text x="61" y="164" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="400" fill="#e5e7eb" >Java 21 · React 19</text>
+<text x="52" y="128" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="400" fill="#99f6e4" >Multi-brand fashion marketplace that builds</text>
+<text x="52" y="142" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="400" fill="#99f6e4" >whole outfits on budget. Optional local AI.</text>
+<rect x="52" y="152" width="150" height="17" rx="8.5" fill="#f89820" fill-opacity=".14" stroke="#f89820" stroke-opacity=".55"/>
+<text x="61" y="164" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="400" fill="#e5e7eb" >Spring Boot · React 19</text>
 <circle cx="361" cy="130" r="20" fill="none" stroke="#12302f" stroke-width="5"/>
 <circle cx="361" cy="130" r="20" fill="none" stroke="#f89820" stroke-width="5" stroke-linecap="round" transform="rotate(-90 361 130)" stroke-dasharray="125.7" stroke-dashoffset="0"><animate attributeName="stroke-dashoffset" values="125.7;0" dur="1.6s" begin="0.3s" fill="freeze"/></circle>
 <text x="361" y="133.5" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="9" font-weight="700" fill="#e6fffa" text-anchor="middle" >JAVA</text>

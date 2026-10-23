@@ -213,7 +213,7 @@ ${body}`;
 // ---------------------------------------------------------------- featured projects
 function projects() {
   const items = [
-    ['project/premium-threads', 'Premium Threads', ['AI-assisted fashion marketplace: 16 modules,', '95 REST endpoints, Llama 3.2 via Spring AI.'], 'Java 21 · React 19', 'JAVA', '#f89820'],
+    ['premium-threads', 'Premium Threads', ['Multi-brand fashion marketplace that builds', 'whole outfits on budget. Optional local AI.'], 'Spring Boot · React 19', 'JAVA', '#f89820'],
     ['space-theme-portfolio', 'Space Portfolio', ['Interactive 3D portfolio built with', 'HTML, CSS and Three.js. The latest theme.'], 'HTML · Three.js', 'HTML', '#e34c26'],
     ['train-theme-portfolio', 'Train Portfolio', ['A train-journey take on the portfolio,', 'rendered in 3D with Three.js.'], 'HTML · Three.js', 'HTML', '#e34c26'],
     ['pavankumar6680.github.io', 'Cloud Portfolio', ['The original cloud-themed portfolio,', 'live at pavankumar6680.github.io.'], 'HTML · Three.js', 'HTML', '#e34c26'],

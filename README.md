@@ -94,7 +94,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="25%"><b>Premium Threads</b><br><br>AI-assisted fashion marketplace with a budget outfit optimizer and local Llama 3.2.<br><br><sub>Java 21 · Spring Boot · React 19 · PostgreSQL</sub></td>
+    <td valign="top" width="25%"><a href="https://github.com/pavankumar6680/premium-threads"><b>Premium Threads</b></a><br><br>Fashion marketplace that builds Budget, Balanced and Premium outfits, with optional local AI.<br><br><sub><a href="https://github.com/pavankumar6680/premium-threads">code</a> · Java · Spring Boot · React 19 · PostgreSQL</sub></td>
     <td valign="top" width="25%"><a href="https://pavankumar6680.github.io/space-theme-portfolio/"><b>Space Portfolio</b></a><br><br>Interactive 3D portfolio, the latest theme.<br><br><sub><a href="https://github.com/pavankumar6680/space-theme-portfolio">code</a> · HTML · Three.js</sub></td>
     <td valign="top" width="25%"><a href="https://pavankumar6680.github.io/train-theme-portfolio/"><b>Train Portfolio</b></a><br><br>A train-journey take on the portfolio.<br><br><sub><a href="https://github.com/pavankumar6680/train-theme-portfolio">code</a> · HTML · Three.js</sub></td>
     <td valign="top" width="25%"><a href="https://pavankumar6680.github.io/"><b>Cloud Portfolio</b></a><br><br>The original cloud-themed portfolio.<br><br><sub><a href="https://github.com/pavankumar6680/pavankumar6680.github.io">code</a> · HTML · Three.js</sub></td>
